@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.exe
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.deps.json
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.dll
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.pdb
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.dll
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\refint\MeuPrimeiroProjeto.dll
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.pdb
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\gabriel\Documents\Materiais-Dotnet\Meus Projetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net5.0\ref\MeuPrimeiroProjeto.dll
